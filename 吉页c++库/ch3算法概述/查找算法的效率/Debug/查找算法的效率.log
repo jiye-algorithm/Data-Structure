@@ -1,0 +1,16 @@
+﻿生成启动时间为 2014/4/12 10:57:38。
+     1>项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch3\查找算法的效率\查找算法的效率.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt testSeach.cpp
+         testSeach.cpp
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_random.h(43): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_random.h(85): warning C4244: “return”: 从“double”转换到“long”，可能丢失数据
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_sort.h(234): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\学习\数据结构\数据结构STL\吉页c++库\ch3\查找算法的效率\Debug\查找算法的效率.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\学习\数据结构\数据结构STL\吉页c++库\ch3\查找算法的效率\Debug\查找算法的效率.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\学习\数据结构\数据结构STL\吉页c++库\ch3\查找算法的效率\Debug\查找算法的效率.lib" /MACHINE:X86 Debug\testSeach.obj
+         查找算法的效率.vcxproj -> E:\学习\数据结构\数据结构STL\吉页c++库\ch3\查找算法的效率\Debug\查找算法的效率.exe
+     1>已完成生成项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch3\查找算法的效率\查找算法的效率.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.42

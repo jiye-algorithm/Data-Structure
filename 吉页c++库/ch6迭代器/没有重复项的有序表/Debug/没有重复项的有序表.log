@@ -1,0 +1,47 @@
+﻿生成启动时间为 2014/4/21 18:51:07。
+     1>项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch6\没有重复项的有序表\没有重复项的有序表.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "没有重复项的有序表.cpp"
+         没有重复项的有序表.cpp
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(21): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(21): error C2182: “writeArray”: 非法使用“void”类型
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(21): error C2988: 不可识别的模板声明/定义
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(21): error C2059: 语法错误:“<”
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(25): error C2065: “T”: 未声明的标识符
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(25): error C2923: “std::vector”: 对于参数“_Ty”，“T”不是有效的 模板 类型变量
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(35): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(92): error C2143: 语法错误 : 缺少“;”(在“&”的前面)
+                 e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(95): 参见对正在编译的类 模板 实例化“omanip2<T>”的引用
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(92): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(108): error C2572: “getline”: 重定义默认参数 : 参数 3
+                 e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(16) : 参见“getline”的声明
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(145): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(145): error C2182: “writeArray”: 非法使用“void”类型
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(145): error C2374: “writeArray”: 重定义；多次初始化
+                 e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(21) : 参见“writeArray”的声明
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(145): error C2988: 不可识别的模板声明/定义
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(145): error C2059: 语法错误:“<”
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(156): error C2065: “T”: 未声明的标识符
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(156): error C2923: “std::vector”: 对于参数“_Ty”，“T”不是有效的 模板 类型变量
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(157): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(157): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(179): error C2572: “writeList”: 重定义默认参数 : 参数 2
+                 e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(30) : 参见“writeList”的声明
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(184): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(184): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(207): error C2572: “writeContainer”: 重定义默认参数 : 参数 3
+                 e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(40) : 参见“writeContainer”的声明
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(222): error C2572: “writeMap”: 重定义默认参数 : 参数 2
+                 e:\学习\数据结构\数据结构stl\吉页c++库\include\y_util.h(45) : 参见“writeMap”的声明
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_listl.h(19): warning C4346: “std::list<T,std::allocator<_Ty>>::iterator”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_listl.h(19): error C2061: 语法错误: 标识符“iterator”
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_listl.h(64): warning C4346: “std::list<T,std::allocator<_Ty>>::iterator”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_listl.h(64): error C2061: 语法错误: 标识符“iterator”
+     1>已完成生成项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch6\没有重复项的有序表\没有重复项的有序表.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.79

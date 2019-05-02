@@ -1,0 +1,24 @@
+﻿生成启动时间为 2014/4/24 21:18:34。
+     1>项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch5\miniVector\miniVector.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt myMain.cpp
+         myMain.cpp
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_vector.h(265): error C2062: 意外的类型“char”
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_vector.h(279): error C2065: “vsize”: 未声明的标识符
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_vector.h(299): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_vector.h(300): error C2065: “obj”: 未声明的标识符
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_vector.h(300): error C2228: “.vArr”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_vector.h(323): error C2440: “return”: 无法从“char *”转换为“const char *&”
+                 转换丢失限定符
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_vector.h(346): error C2440: “return”: 无法从“char *”转换为“const char *&”
+                 转换丢失限定符
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_vector.h(363): error C2440: “=”: 无法从“const char *”转换为“char *”
+                 转换丢失限定符
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\ch5\minivector\mymain.cpp(40): error C2512: “miniVector<char*>”: 没有合适的默认构造函数可用
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\ch5\minivector\mymain.cpp(47): error C2664: “void miniVector<char*>::push_back(const char *&)”: 无法将参数 1 从“char [100]”转换为“const char *&”
+     1>已完成生成项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch5\miniVector\miniVector.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.74

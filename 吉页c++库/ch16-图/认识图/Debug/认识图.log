@@ -1,0 +1,16 @@
+﻿生成启动时间为 2014/5/26 10:34:48。
+     1>项目“E:\study\data stucture\data STL\吉页c++库\ch16\认识图\认识图.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Windows\system32\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt myMain.cpp
+         myMain.cpp
+     1>e:\study\data stucture\data stl\datastruct_cppstl\include\d_galgs.h(57): warning C4018: “<”: 有符号/无符号不匹配
+                 e:\study\data stucture\data stl\datastruct_cppstl\include\d_galgs.h(51): 编译类 模板 成员函数“std::ostream &operator <<(std::ostream &,const graph<char> &)”时
+                 e:\study\data stucture\data stl\吉页c++库\ch16\认识图\mymain.cpp(27): 参见对正在编译的类 模板 实例化“graph<char>”的引用
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\study\data stucture\data STL\吉页c++库\ch16\认识图\Debug\认识图.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\study\data stucture\data STL\吉页c++库\ch16\认识图\Debug\认识图.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\study\data stucture\data STL\吉页c++库\ch16\认识图\Debug\认识图.lib" /MACHINE:X86 Debug\myMain.obj
+         认识图.vcxproj -> E:\study\data stucture\data STL\吉页c++库\ch16\认识图\Debug\认识图.exe
+     1>已完成生成项目“E:\study\data stucture\data STL\吉页c++库\ch16\认识图\认识图.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.85

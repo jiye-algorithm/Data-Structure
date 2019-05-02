@@ -1,0 +1,27 @@
+﻿生成启动时间为 2014/6/20 13:24:39。
+     1>项目“E:\study\data stucture\data STL\吉页c++库\ch9\约瑟夫问题\约瑟夫问题.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt myMyain.cpp pricecpp.cpp "填yunsuanf.cpp" "大学生活费.cpp" "奥数题.cpp" "快速排序cpp.cpp" "求素数.cpp" "进制转换.cpp"
+         进制转换.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “进制转换.cpp”: No such file or directory
+         求素数.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “求素数.cpp”: No such file or directory
+         快速排序cpp.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “快速排序cpp.cpp”: No such file or directory
+         奥数题.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “奥数题.cpp”: No such file or directory
+         大学生活费.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “大学生活费.cpp”: No such file or directory
+         填yunsuanf.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “填yunsuanf.cpp”: No such file or directory
+         pricecpp.cpp
+     1>c1xx : fatal error C1083: 无法打开源文件: “pricecpp.cpp”: No such file or directory
+         myMyain.cpp
+     1>e:\study\data stucture\data stl\吉页c++库\include\y_random.h(43): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+     1>e:\study\data stucture\data stl\吉页c++库\include\y_random.h(85): warning C4244: “return”: 从“double”转换到“long”，可能丢失数据
+         正在生成代码...
+     1>已完成生成项目“E:\study\data stucture\data STL\吉页c++库\ch9\约瑟夫问题\约瑟夫问题.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.26

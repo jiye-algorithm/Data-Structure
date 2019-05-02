@@ -1,0 +1,21 @@
+﻿生成启动时间为 2014/4/9 15:43:56。
+     1>项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch2\employee\employee.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt employee.cpp
+         employee.cpp
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_random.h(43): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_random.h(85): warning C4244: “return”: 从“double”转换到“long”，可能丢失数据
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(302): warning C4346: “stree<T>::iterator”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(302): error C2143: 语法错误 : 缺少“;”(在“stree<T>::find”的前面)
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(302): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(302): warning C4346: “stree<T>::find”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(302): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(315): error C2509: “find”: 成员函数没有在“stree<T>”中声明
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(315): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch2\employee\employee.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.64

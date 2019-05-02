@@ -1,0 +1,25 @@
+﻿生成启动时间为 2014/6/20 15:24:42。
+     1>项目“E:\study\data stucture\data STL\吉页c++库\ch10\myList\myList.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(113): error C2143: 语法错误 : 缺少“;”(在“miniList<T>::getDNode”的前面)
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(113): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(113): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(126): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(126): error C2511: “int miniList<T>::getDNode(const int)”:“miniList<T>”中没有找到重载的成员函数
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(129): error C2143: 语法错误 : 缺少“;”(在“miniList<T>::dinsert”的前面)
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(129): error C2374: “typrname”: 重定义；多次初始化
+                 e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(113) : 参见“typrname”的声明
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(129): error C2065: “T”: 未声明的标识符
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(129): error C2923: “dnode”: 对于参数“T”，“T”不是有效的 模板 类型变量
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(129): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(129): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(141): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(143): error C2601: “miniList<T>::dinsert”: 本地函数定义是非法的
+     1>e:\study\data stucture\data stl\吉页c++库\ch10\mylist\minilist.h(143): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“E:\study\data stucture\data STL\吉页c++库\ch10\myList\myList.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.72

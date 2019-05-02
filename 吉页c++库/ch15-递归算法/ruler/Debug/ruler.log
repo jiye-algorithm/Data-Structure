@@ -1,0 +1,16 @@
+﻿生成启动时间为 2014/7/8 18:41:53。
+     1>项目“E:\study\data stucture\data STL\吉页c++库\ch15-递归算法\ruler\ruler.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt myMain.cpp
+         myMain.cpp
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\study\data stucture\data STL\吉页c++库\ch15-递归算法\ruler\Debug\ruler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\study\data stucture\data STL\吉页c++库\ch15-递归算法\ruler\Debug\ruler.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\study\data stucture\data STL\吉页c++库\ch15-递归算法\ruler\Debug\ruler.lib" /MACHINE:X86 Debug\testExtern_C.obj
+         Debug\testExtern_C.obj
+         Debug\myMain.obj
+     1>Debug\testExtern_C.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+         ruler.vcxproj -> E:\study\data stucture\data STL\吉页c++库\ch15-递归算法\ruler\Debug\ruler.exe
+     1>已完成生成项目“E:\study\data stucture\data STL\吉页c++库\ch15-递归算法\ruler\ruler.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.99

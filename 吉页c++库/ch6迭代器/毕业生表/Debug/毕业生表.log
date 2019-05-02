@@ -1,0 +1,36 @@
+﻿生成启动时间为 2014/4/23 17:09:22。
+     1>项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch6\毕业生表\毕业生表.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt myMain.cpp
+         myMain.cpp
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(346): warning C4346: “stree<T>::iterator”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(346): error C2923: “std::pair”: 对于参数“_Ty1”，“stree<T>::iterator”不是有效的 模板 类型变量
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(386): error C2244: “stree<T>::insert”: 无法将函数定义与现有的声明匹配
+                 e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(82) : 参见“stree<T>::insert”的声明
+                 定义
+                 'std::pair stree<T>::insert(const T &)'
+                 现有声明
+                 'std::pair<stree<T>::iterator,bool> stree<T>::insert(const T &)'
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(550): error C2244: “stree<T>::begin”: 无法将函数定义与现有的声明匹配
+                 定义
+                 'Iterator stree<T>::begin(void)'
+                 现有声明
+                 'stree<T>::const_iterator stree<T>::begin(void) const'
+                 'stree<T>::iterator stree<T>::begin(void)'
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(565): error C2244: “stree<T>::begin”: 无法将函数定义与现有的声明匹配
+                 定义
+                 'const_Iterator stree<T>::begin(void) const'
+                 现有声明
+                 'stree<T>::const_iterator stree<T>::begin(void) const'
+                 'stree<T>::iterator stree<T>::begin(void)'
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(568): warning C4346: “stree<T>::iterator”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(568): error C2143: 语法错误 : 缺少“;”(在“stree<T>::end”的前面)
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(572): error C2509: “end”: 成员函数没有在“stree<T>”中声明
+     1>e:\学习\数据结构\数据结构stl\datastruct_cppstl\include\d_stree.h(572): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch6\毕业生表\毕业生表.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.70

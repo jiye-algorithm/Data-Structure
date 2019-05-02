@@ -1,0 +1,27 @@
+﻿生成启动时间为 2014/7/6 16:13:48。
+     1>项目“E:\study\data stucture\data STL\吉页c++库\ch16-图\最短路径--最小图系列\最短路径--最小图系列.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt myMain.cpp
+         myMain.cpp
+     1>e:\study\data stucture\data stl\吉页c++库\include\y_galgs.h(196): warning C4018: “<”: 有符号/无符号不匹配
+                 e:\study\data stucture\data stl\吉页c++库\include\y_galgs.h(187): 编译类 模板 成员函数“int shortestPath(graph<char> &,const T &,const T &,std::list<T,std::allocator<char>> &)”时
+                 with
+                 [
+                     T=char
+                 ]
+                 e:\study\data stucture\data stl\吉页c++库\ch16-图\最短路径--最小图系列\mymain.cpp(26): 参见对正在编译的类 模板 实例化“graph<char>”的引用
+     1>e:\study\data stucture\data stl\吉页c++库\include\y_galgs.h(213): error C2039: “top”: 不是“std::queue<int,std::deque<_Ty,std::allocator<_Ty>>>”的成员
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>e:\study\data stucture\data stl\吉页c++库\include\y_galgs.h(223): error C2065: “i”: 未声明的标识符
+     1>e:\study\data stucture\data stl\吉页c++库\include\y_galgs.h(223): error C2228: “.color”的左边必须有类/结构/联合
+     1>e:\study\data stucture\data stl\吉页c++库\include\y_galgs.h(247): error C2065: “cur”: 未声明的标识符
+     1>e:\study\data stucture\data stl\吉页c++库\include\y_galgs.h(248): error C2065: “cur”: 未声明的标识符
+     1>e:\study\data stucture\data stl\吉页c++库\include\y_galgs.h(248): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“E:\study\data stucture\data STL\吉页c++库\ch16-图\最短路径--最小图系列\最短路径--最小图系列.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.69

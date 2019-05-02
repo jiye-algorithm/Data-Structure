@@ -1,0 +1,20 @@
+﻿生成启动时间为 2014/4/21 18:04:13。
+     1>项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch6\词的频率\词的频率.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "词的频率.cpp"
+         词的频率.cpp
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_search.h(38): warning C4346: “std::list<T,std::allocator<_Ty>>::iterator”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_search.h(38): error C2146: 语法错误: 缺少“;”(在标识符“seqSearch”的前面)
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_search.h(38): error C2065: “T”: 未声明的标识符
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_search.h(38): error C2923: “std::list”: 对于参数“_Ty”，“T”不是有效的 模板 类型变量
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_search.h(38): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_search.h(38): error C2365: “seqSearch”: 重定义；以前的定义是“函数”
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_search.h(38): warning C4346: “std::list<_Ty,_Alloc>::iterator”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>e:\学习\数据结构\数据结构stl\吉页c++库\include\y_search.h(38): error C2143: 语法错误 : 缺少“;”(在“<end Parse>”的前面)
+     1>已完成生成项目“E:\学习\数据结构\数据结构STL\吉页c++库\ch6\词的频率\词的频率.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.58

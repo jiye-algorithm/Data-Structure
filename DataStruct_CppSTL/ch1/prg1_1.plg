@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: prg1_1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSP22C5.TMP" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/prg1_1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\My Documents\Lectures\DataStructure\ftsoftds\ftsoftds\ch1\prg1_1.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP22C5.TMP" 
+<h3>Output Window</h3>
+Compiling...
+prg1_1.cpp
+Compiling c:\my documents\lectures\datastructure\ftsoftds\ftsoftds\ch1\prg1_1.cpp
+Compiling c:\my documents\lectures\datastructure\ftsoftds\ftsoftds\ch1\prg1_1.cpp
+Last modified on Sep 21 2002
+                 16:34:45
+Last modified on Tue Mar 31 23:33:04 1970
+
+
+
+<h3>Results</h3>
+prg1_1.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
